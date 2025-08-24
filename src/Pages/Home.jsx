@@ -97,9 +97,9 @@ const PAUSE_DURATION = 2000;
 const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/ankitpathak62" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/ankitpathak62/" },
-  { icon: Instagram, link: "https://www.instagram.com/sunfiresensei/" },
+  { icon: Github, link: "https://github.com/" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in//" },
+  { icon: Instagram, link: "https://www.instagram.com//" },
 ];
 
 const Home = () => {
@@ -211,8 +211,7 @@ const Home = () => {
                   data-aos="fade-up"
                   data-aos-delay="1000"
                 >
-                  Menciptakan Website Yang Inovatif, Fungsional, dan
-                  User-Friendly untuk Solusi Digital.
+                  Our team is professional web developers, if you want to build any website then please DM us, fully customisable .
                 </p>
 
                 {/* Tech Stack */}
